@@ -1,3 +1,17 @@
+
+ul{list-style-type: none;}
+.h1{color: #7e2804;
+text-align: center;}
+.h2{color: #7e2804;
+    text-align: center;
+    margin-top: 320px;
+}
+
+
+
+
+
+/* -----------------BEAR--------------------------- */
 body {
     background-color: #7994a5;
     height: 100vh;
