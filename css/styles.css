@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: #7994a5;
     height: 100vh;
 }
@@ -115,4 +115,4 @@ input:checked+.toggle+.bear-body {
     90% {
         transform: rotateX(90deg);
     }
-}
+} */
